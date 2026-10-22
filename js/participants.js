@@ -2,15 +2,13 @@ const participants = [
   {
     name: "Shashwath Nayak",
     username: "ShashwathNayak06",
-    role: "Workshop Host",
-    description: "Maintainer of this repo. Add your card and open a PR!",
+    description: "Built this entire site so people would stop asking him what a pull request is. They still ask.",
     skills: ["Git", "GitHub", "JavaScript"]
   },
   {
     name: "Octocat",
     username: "octocat",
-    role: "Sample Entry",
-    description: "This is an example card so you can see the format. Copy it, don't delete it.",
-    skills: ["Demo", "Example"]
+    description: "Technically an octopus. Professionally a cat. Has been on GitHub longer than everyone here and has never once committed.",
+    skills: ["Existing", "Being Mascot"]
   }
 ];

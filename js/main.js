@@ -13,7 +13,7 @@
     "1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 " +
     "3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A7.995 7.995 0 0 0 16 8c0-4.42-3.58-8-8-8z";
 
-    function isValid(person) {
+  function isValid(person) {
     return person && typeof person.name === "string" && person.name.trim() !== "" &&
       typeof person.username === "string" && person.username.trim() !== "";
   }
@@ -29,7 +29,7 @@
     return "https://github.com/" + encodeURIComponent(person.username.trim());
   }
 
-    function initialsAvatar(name) {
+  function initialsAvatar(name) {
     var initials = name.trim().split(/\s+/).slice(0, 2).map(function (word) {
       return word.charAt(0).toUpperCase();
     }).join("");
@@ -66,13 +66,6 @@
     name.textContent = person.name;
     card.appendChild(name);
 
-    if (person.role) {
-      var role = document.createElement("p");
-      role.className = "card-role";
-      role.textContent = person.role;
-      card.appendChild(role);
-    }
-
     if (person.description) {
       var desc = document.createElement("p");
       desc.className = "card-desc";
@@ -107,7 +100,6 @@
     return [
       person.name,
       person.username,
-      person.role || "",
       person.description || "",
       Array.isArray(person.skills) ? person.skills.join(" ") : ""
     ].join(" ").toLowerCase();

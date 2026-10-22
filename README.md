@@ -36,7 +36,6 @@ closing `];`:
   {
     name: "Your Name",
     username: "your-github-username",
-    role: "Student",
     description: "One short line about yourself.",
     skills: ["HTML", "CSS", "JavaScript"]
   },
@@ -46,7 +45,6 @@ closing `];`:
 |---|---|---|
 | `name` | ✅ | Your display name on the card |
 | `username` | ✅ | Your **GitHub username** — the photo and the card link come from this |
-| `role` | optional | e.g. `Student`, `Frontend Developer`, `Designer` |
 | `description` | optional | One or two lines about you |
 | `skills` | optional | Up to 6 short tags |
 

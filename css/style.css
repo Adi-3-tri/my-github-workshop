@@ -149,17 +149,9 @@ main { padding: 56px 20px 24px; }
 }
 
 .card-name {
-  margin: 16px 0 2px;
+  margin: 16px 0 0;
   font-size: 1.12rem;
   font-weight: 700;
-}
-.card-role {
-  margin: 0;
-  font-size: .76rem;
-  font-weight: 600;
-  letter-spacing: .06em;
-  text-transform: uppercase;
-  color: var(--accent);
 }
 .card-desc {
   margin: 12px 0 0;
