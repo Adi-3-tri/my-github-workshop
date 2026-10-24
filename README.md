@@ -33,7 +33,7 @@ Open `js/participants.js` and paste this block **at the end of the list**, just 
 closing `];`:
 
 ```js
-  {
+  ,{
     name: "Your Name",
     username: "your-github-username",
     description: "One short line about yourself.",
