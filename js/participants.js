@@ -21,6 +21,7 @@ const participants = [
     name: "Goutham devadiga",
     username: "gouthamdevadiga-dotcom",
     name: "Nithish Jayanth",
+  },{
     username: "NithishJayanth",
     description: "Technically an octopus. Professionally a cat. Has been on GitHub longer than everyone here and has never once committed.",
     skills: ["Existing", "Being Mascot"]
@@ -30,6 +31,14 @@ const participants = [
     description: "Technically an octopus. Professionally a cat. Has been on GitHub longer than everyone here and has never once committed.",
     skills: ["Existing", "Being Mascot"]
   },
+  
+{
+    name: "Harsh Y Poojary",
+    username: "harshypoojary",
+    description: "Computer Science Engineering student interested in software development.",
+    skills: ["C", "Java", "HTML", "JavaScript"]
+},
+
 {
  name: "Thrupthi Shetty",
     username: "Thrupthi-2107",
