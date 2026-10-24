@@ -1,9 +1,9 @@
 const participants = [
   {
-    name: "Shashwath Nayak",
-    username: "ShashwathNayak06",
-    description: "Built this entire site so people would stop asking him what a pull request is. They still ask.",
-    skills: ["Git", "GitHub", "JavaScript"]
+    name: "Bhavish HK",
+    username: "BhavishHK",
+    description: "SomeOne Creative",
+    skills: ["Python", "Figma", "Java"]
   },
   {
     name: "Octocat",
