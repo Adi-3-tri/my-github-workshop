@@ -10,5 +10,11 @@ const participants = [
     username: "octocat",
     description: "Technically an octopus. Professionally a cat. Has been on GitHub longer than everyone here and has never once committed.",
     skills: ["Existing", "Being Mascot"]
-  }
+  },
+  {
+    name: "Sumith",
+    username: "sumithpoojary20-hub",
+    description: "Default",
+    skills: ["Git", "GitHub", "Python"]
+  },
 ];
