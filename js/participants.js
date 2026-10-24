@@ -32,6 +32,12 @@ const participants = [
     skills: ["Git", "GitHub", "CSS", "HTML", "Python","C","Java"]
   },
     {
+    name: "Nidheesha Hegde",
+    username: "nidheesha07",
+    description: "I m CSE Student",
+    skills: ["HTML", "CSS", "JavaScript"]
+    },
+  {
     name: "Anirudh B",
     username: "anirudhb983-ctrl",
     description: "One short line about yourself.",
