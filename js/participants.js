@@ -1,6 +1,11 @@
 
 const participants = [
   {
+    name: "Bhavish HK",
+    username: "BhavishHK",
+    description: "SomeOne Creative",
+    skills: ["Python", "Figma", "Java"]
+  },{
     name: "Briana Menezes",
     username: "BrianaMenezes",
     description: "A software engineer who loves to learn and share knowledge.",
@@ -13,6 +18,8 @@ const participants = [
     skills: ["Git", "GitHub", "JavaScript"]
   },
   {
+    name: "Goutham devadiga",
+    username: "gouthamdevadiga-dotcom",
     name: "Nithish Jayanth",
     username: "NithishJayanth",
     description: "Technically an octopus. Professionally a cat. Has been on GitHub longer than everyone here and has never once committed.",
@@ -23,11 +30,22 @@ const participants = [
     description: "Technically an octopus. Professionally a cat. Has been on GitHub longer than everyone here and has never once committed.",
     skills: ["Existing", "Being Mascot"]
   },
+{
+ name: "Thrupthi Shetty",
+    username: "Thrupthi-2107",
+    description: "Technically an octopus. Professionally a cat. Has been on GitHub longer than everyone here and has never once committed.",
+    skills: ["Existing", "Being Mascot"]
+},
   {
     name: "Sumith",
     username: "sumithpoojary20-hub",
     description: "Default",
     skills: ["Git", "GitHub", "Python"]
+  },{
+    name: "Varshini",
+    username: "varshini106",
+    description: "aspiring software engineer",
+    skills: ["Python", "Java", "DS"]
   },{
     name: "Ayush",
     username: "Ayush-1242",
