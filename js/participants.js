@@ -37,4 +37,10 @@ const participants = [
     description: "Developer for a reason",
     skills: ["Hosteller"],
   },
+  {
+    name: "Shreyas S R",
+    username: "shreyassaradka",
+    description: "Developer for a reason",
+    skills: ["github"],
+  },
 ];
