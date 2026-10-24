@@ -6,6 +6,9 @@ const participants = [
     description: "Maintainer of this repo. Add your card and open a PR!",
     description: "Built this entire site so people would stop asking him what a pull request is. They still ask.",
     skills: ["Git", "GitHub", "JavaScript"]
+    description:
+      "Built this entire site so people would stop asking him what a pull request is. They still ask.",
+    skills: ["Git", "GitHub", "JavaScript"],
   },
   {
     name: "Octocat",
@@ -18,5 +21,32 @@ const participants = [
     username: "prathamsshetty125",
     description: "One short line about yourself.",
     skills: ["Git", "GitHub", "CSS", "HTML", "Python","C","Java"]
+    description:
+      "Technically an octopus. Professionally a cat. Has been on GitHub longer than everyone here and has never once committed.",
+    skills: ["Existing", "Being Mascot"],
+  },
+  {
+    name: "Steve Dmello",
+    username: "Frenchietoasted",
+    description: "PPT man",
+    skills: ["sleeping"],
+  },
+  {
+    name: "Ashton Mathias",
+    username: "ashtonmths",
+    description: "FLOSS Admin btw",
+    skills: ["broke", "idk bro"],
+  },
+  {
+    name: "Sushan Shetty",
+    username: "sushanshetty1",
+    description: "I wanna go home",
+    skills: ["iphone 18 pro", "claude's plan"],
+  },
+  {
+    name: "Alen Chettiar",
+    username: "AlenChettiar",
+    description: "Developer for a reason",
+    skills: ["Hosteller"],
   },
 ];
