@@ -32,6 +32,12 @@ const participants = [
     skills: ["Existing", "Being Mascot"]
   },
   {
+    name: "Adithya",
+    username: "adithya2162008-source",
+    description: "getting ahead in your life",
+    skills: ["HTML", "CSS", "JavaScript","python"]
+      },
+      {
     name: "viraaj j poojary",
     username: "viraaj23",
     description: "A passionate web developer who loves to create beautiful and functional websites. Always eager to learn new technologies and improve his skills.",
