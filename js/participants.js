@@ -37,6 +37,11 @@ const participants = [
     skills: ["Existing", "Being Mascot"]
 },
   {
+    name: "Sumith",
+    username: "sumithpoojary20-hub",
+    description: "Default",
+    skills: ["Git", "GitHub", "Python"]
+  },{
     name: "Varshini",
     username: "varshini106",
     description: "aspiring software engineer",
@@ -111,6 +116,6 @@ const participants = [
     username: "shreyassaradka",
     description: "Developer for a reason",
     skills: ["github"],
-  },
+  }
 ];
 
