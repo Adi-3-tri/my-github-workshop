@@ -14,7 +14,7 @@ const participants = [
     {
     name: "Jithesh Bhat",
     username: "jithu1707",
-    description: "studying AIML in nmamit,chillig",
+    description: "studying AIML in nmamit,chilling",
     skills: ["python","C","C++"]
-  },
+  }
 ];
