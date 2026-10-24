@@ -32,6 +32,17 @@ const participants = [
     skills: ["HTML", "CSS", "JavaScript"]
   }
   ,{
+    name: "Ayush",
+    username: "Ayush-1242",
+    description: "Studyying AIML at NMAM Institute of Technology, Nitte. Loves to explore new technologies and is a passionate learner.",
+    skills: ["Python", "Java","C"]
+  },
+    {
+    name: "Advay Theneyur Rajesh",
+    username: "Advay-01 ",
+    description: "living life one commit at a time",
+    skills: ["c++", "python", "how to use gpts"]
+    }, {
     name: "Pratham S Shetty",
     username: "prathamsshetty125",
     description: "One short line about yourself.",
@@ -92,3 +103,4 @@ const participants = [
     skills: ["github"],
   },
 ];
+
