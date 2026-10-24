@@ -1,5 +1,11 @@
 const participants = [
   {
+    name: "Briana Menezes",
+    username: "BrianaMenezes",
+    description: "A software engineer who loves to learn and share knowledge.",
+    skills: ["JavaScript", "React", "Node.js"]
+  },
+  {
     name: "Shashwath Nayak",
     username: "ShashwathNayak06",
     description:
@@ -22,10 +28,6 @@ const participants = [
     username: "jithu1707",
     description: "studying AIML in nmamit,chilling",
     skills: ["python","C","C++"]
-  },
-    description:
-      "Technically an octopus. Professionally a cat. Has been on GitHub longer than everyone here and has never once committed.",
-    skills: ["Existing", "Being Mascot"],
   },
   {
     name: "Steve Dmello",
