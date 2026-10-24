@@ -12,9 +12,9 @@ const participants = [
     skills: ["Existing", "Being Mascot"]
   },
   {
-    name: "Your Name",
-    username: "your-github-username",
-    description: "One short line about yourself.",
+    name: "Anuradha",
+    username: "anupai267-pixel",
+    description: "I am CSE student.",
     skills: ["HTML", "CSS", "JavaScript"]
   },
 ];
