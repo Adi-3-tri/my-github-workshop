@@ -30,6 +30,12 @@ const participants = [
     description: "Technically an octopus. Professionally a cat. Has been on GitHub longer than everyone here and has never once committed.",
     skills: ["Existing", "Being Mascot"]
   },
+{
+ name: "Thrupthi Shetty",
+    username: "Thrupthi-2107",
+    description: "Technically an octopus. Professionally a cat. Has been on GitHub longer than everyone here and has never once committed.",
+    skills: ["Existing", "Being Mascot"]
+},
   {
     name: "Varshini",
     username: "varshini106",
