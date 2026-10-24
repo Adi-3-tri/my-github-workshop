@@ -1,6 +1,11 @@
 
 const participants = [
   {
+    name: "Bhavish HK",
+    username: "BhavishHK",
+    description: "SomeOne Creative",
+    skills: ["Python", "Figma", "Java"]
+  },{
     name: "Briana Menezes",
     username: "BrianaMenezes",
     description: "A software engineer who loves to learn and share knowledge.",
