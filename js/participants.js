@@ -24,6 +24,11 @@ const participants = [
     skills: ["Existing", "Being Mascot"]
   },
   {
+    name: "Varshini",
+    username: "varshini106",
+    description: "aspiring software engineer",
+    skills: ["Python", "Java", "DS"]
+  },{
     name: "Ayush",
     username: "Ayush-1242",
     description: "Studyying AIML at NMAM Institute of Technology, Nitte. Loves to explore new technologies and is a passionate learner.",
