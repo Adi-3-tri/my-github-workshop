@@ -10,7 +10,6 @@ const participants = [
     name: "Shashwath Nayak",
     username: "ShashwathNayak06",
     role: "Workshop Host",
-    description: "Maintainer of this repo. Add your card and open a PR!",
     description: "Built this entire site so people would stop asking him what a pull request is. They still ask.",
     skills: ["Git", "GitHub", "JavaScript"]
   },
@@ -30,7 +29,7 @@ const participants = [
     username: "Ayush-1242",
     description: "Studyying AIML at NMAM Institute of Technology, Nitte. Loves to explore new technologies and is a passionate learner.",
     skills: ["Python", "Java","C"]
-  }
+  },
     {
     name: "Advay Theneyur Rajesh",
     username: "Advay-01 ",
