@@ -131,6 +131,13 @@ const participants = [
     description: "Developer for a reason",
     skills: ["Hosteller"],
   },
+    {
+    name: "Lahari R Prabhu",
+    username: "lahari54321",
+    description: "A short line bout myself.",
+    skills: ["C","Python"]
+},
+
   {
     name: "Shreyas S R",
     username: "shreyassaradka",
