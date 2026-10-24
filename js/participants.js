@@ -37,6 +37,11 @@ const participants = [
     skills: ["Existing", "Being Mascot"]
 },
   {
+    name: "Anuradha",
+    username: "anupai267-pixel",
+    description: "I am CSE student.",
+    skills: ["HTML", "CSS", "JavaScript"]
+  },{
     name: "Sumith",
     username: "sumithpoojary20-hub",
     description: "Default",
