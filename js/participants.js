@@ -1,6 +1,11 @@
 
 const participants = [
   {
+    name: "Bhavish HK",
+    username: "BhavishHK",
+    description: "SomeOne Creative",
+    skills: ["Python", "Figma", "Java"]
+  },{
     name: "Briana Menezes",
     username: "BrianaMenezes",
     description: "A software engineer who loves to learn and share knowledge.",
@@ -9,13 +14,14 @@ const participants = [
   {
     name: "Shashwath Nayak",
     username: "ShashwathNayak06",
-    role: "Workshop Host",
-    description: "Maintainer of this repo. Add your card and open a PR!",
     description: "Built this entire site so people would stop asking him what a pull request is. They still ask.",
     skills: ["Git", "GitHub", "JavaScript"]
   },
   {
+    name: "Goutham devadiga",
+    username: "gouthamdevadiga-dotcom",
     name: "Nithish Jayanth",
+  },{
     username: "NithishJayanth",
     description: "Technically an octopus. Professionally a cat. Has been on GitHub longer than everyone here and has never once committed.",
     skills: ["Existing", "Being Mascot"]
@@ -25,6 +31,20 @@ const participants = [
     description: "Technically an octopus. Professionally a cat. Has been on GitHub longer than everyone here and has never once committed.",
     skills: ["Existing", "Being Mascot"]
   },
+  
+{
+    name: "Harsh Y Poojary",
+    username: "harshypoojary",
+    description: "Computer Science Engineering student interested in software development.",
+    skills: ["C", "Java", "HTML", "JavaScript"]
+},
+
+{
+ name: "Thrupthi Shetty",
+    username: "Thrupthi-2107",
+    description: "Technically an octopus. Professionally a cat. Has been on GitHub longer than everyone here and has never once committed.",
+    skills: ["Existing", "Being Mascot"]
+},
   {
     name: "Deepak Moolya",
     username: "Deepakfinite",
@@ -32,6 +52,21 @@ const participants = [
     skills: ["HTML", "CSS", "JavaScript"]
   }
   ,{
+    name: "Anuradha",
+    username: "anupai267-pixel",
+    description: "I am CSE student.",
+    skills: ["HTML", "CSS", "JavaScript"]
+  },{
+    name: "Sumith",
+    username: "sumithpoojary20-hub",
+    description: "Default",
+    skills: ["Git", "GitHub", "Python"]
+  },{
+    name: "Varshini",
+    username: "varshini106",
+    description: "aspiring software engineer",
+    skills: ["Python", "Java", "DS"]
+  },{
     name: "Ayush",
     username: "Ayush-1242",
     description: "Studyying AIML at NMAM Institute of Technology, Nitte. Loves to explore new technologies and is a passionate learner.",
@@ -101,6 +136,6 @@ const participants = [
     username: "shreyassaradka",
     description: "Developer for a reason",
     skills: ["github"],
-  },
+  }
 ];
 
