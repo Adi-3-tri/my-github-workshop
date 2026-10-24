@@ -1,12 +1,25 @@
+
 const participants = [
+  {
+    name: "Briana Menezes",
+    username: "BrianaMenezes",
+    description: "A software engineer who loves to learn and share knowledge.",
+    skills: ["JavaScript", "React", "Node.js"]
+  },
   {
     name: "Shashwath Nayak",
     username: "ShashwathNayak06",
-    description:
-      "Built this entire site so people would stop asking him what a pull request is. They still ask.",
-    skills: ["Git", "GitHub", "JavaScript"],
+    role: "Workshop Host",
+    description: "Maintainer of this repo. Add your card and open a PR!",
+    description: "Built this entire site so people would stop asking him what a pull request is. They still ask.",
+    skills: ["Git", "GitHub", "JavaScript"]
   },
   {
+    name: "Nithish Jayanth",
+    username: "NithishJayanth",
+    description: "Technically an octopus. Professionally a cat. Has been on GitHub longer than everyone here and has never once committed.",
+    skills: ["Existing", "Being Mascot"]
+  },{
     name: "Octocat",
     username: "octocat",
     description: "Technically an octopus. Professionally a cat. Has been on GitHub longer than everyone here and has never once committed.",
@@ -17,9 +30,35 @@ const participants = [
     username: "Advay-01 ",
     description: "living life one commit at a time",
     skills: ["c++", "python", "how to use gpts"]
-    description:
-      "Technically an octopus. Professionally a cat. Has been on GitHub longer than everyone here and has never once committed.",
-    skills: ["Existing", "Being Mascot"],
+    }, {
+    name: "Pratham S Shetty",
+    username: "prathamsshetty125",
+    description: "One short line about yourself.",
+    skills: ["Git", "GitHub", "CSS", "HTML", "Python","C","Java"]
+  },
+    {
+    name: "Nidheesha Hegde",
+    username: "nidheesha07",
+    description: "I m CSE Student",
+    skills: ["HTML", "CSS", "JavaScript"]
+    },
+  {
+    name: "Anirudh B",
+    username: "anirudhb983-ctrl",
+    description: "One short line about yourself.",
+    skills: ["HTML", "CSS", "JavaScript"]
+    },
+  {
+    name: "Dhruva Shetty",
+    username: "dhruvashetty99",
+    description: "One short line about yourself.",
+    skills: ["HTML", "CSS", "JavaScript"]
+  },
+  {
+    name: "Jithesh Bhat",
+    username: "jithu1707",
+    description: "studying AIML in nmamit,chilling",
+    skills: ["python","C","C++"]
   },
   {
     name: "Steve Dmello",
@@ -44,6 +83,12 @@ const participants = [
     username: "AlenChettiar",
     description: "Developer for a reason",
     skills: ["Hosteller"],
+  },
+  {
+    name: "Shreyas S R",
+    username: "shreyassaradka",
+    description: "Developer for a reason",
+    skills: ["github"],
   },
 ];
 
